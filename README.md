@@ -1,4 +1,4 @@
-# ROC Environment Setup Guide
+# Environment Setup Guide
 ---
 
 ## Purpose
