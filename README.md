@@ -298,7 +298,7 @@ In order to install MariaDB, please visit [MariaDB's official website](https://m
 
 Once you've navigated to the website, you should see the following:
 
-![MariaDB Download Home](./images/mariadb-download.png)
+![MariaDB Download Home](./images/mariadb-download.PNG)
 
 Select the latest version of MariaDB, choose the correct operating system, and select x86_64 if you are on a 64-bit machine, or x86 if you are on a 32-bit machine.
 
@@ -322,7 +322,7 @@ After you've decided on a password, hit "Next", which should bring you to the ne
 
 <code>**NOTE:** If you get a message such as "The TCP Port you selected is already in use. Please choose a different port", this is because you likely already have a SQL server installed on your machine that is using that particular port, such as MySQL. In that case, either uninstall that other SQL database, or set the "TCP port" option to another port such as 3307 instead of the default 3306.</code>
 
-![MariaDB Port](./images/mariadb-port.png)
+![MariaDB Port](./images/mariadb-port.PNG)
 
 MariaDB should now be successfully installed on your computer.
 
